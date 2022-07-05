@@ -4,7 +4,7 @@ body{
 
 .left-portion{
     height: 100vh;
-    background-image: url(images/technology.jpg);
+    background-image: url(../images/technology.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -21,33 +21,48 @@ body{
     text-align: center;
     color: #768EFA;
 }
-.content-heading{
-    margin-top: 20px;
-    margin-bottom: 60px;
+
+/* form box  */
+
+
+
+.form-text{
+    color: white;
+    font-size: 1.5rem;
+    background-color: #0B0666;
+    border-radius: 20px;
+    margin: 2% 0;
 }
-.content-heading h1{
-    font-size: 3rem;
+
+.button{
+    border-radius: 20px;
+    
+}
+.button02{
+    margin: 15% 3%;
+    font-weight: bold;
 }
 
 /* middle portion of right  */
 .content-box{
     margin-top: 10vh;
     border: 5px solid #CD7A7A;
-    height: 40vh;
+    height: 45vh;
 
 }
 .contents{
     margin-top: 4vh;
 }
-.button{
-    margin: 3%;
-}
+
 
 /* footer */
 
 .content-footer{
-    margin: 10vh 2vh 0 2vh;
+    margin: 15vh 2vh 0 2vh;
+    color: #768EFA;
+    text-align: center;
 }
+
 .footer-icons{
     margin-top: 5vh;
     color: white;
