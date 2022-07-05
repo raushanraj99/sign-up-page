@@ -1,0 +1,50 @@
+body{
+    background-color: #0F0750;
+}
+
+.left-portion{
+    height: 100vh;
+    background-image: url(images/technology.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.head-name{
+    color: white;
+    position: absolute;
+    margin-top: 4vh;
+    margin-left: 4vh;
+}
+
+/* Right portion  */
+
+.content{
+    text-align: center;
+    color: #768EFA;
+}
+.content-heading{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.content-heading h1{
+    font-size: 3rem;
+}
+
+/* middle portion of right  */
+.content-box{
+    margin-top: 20vh;
+    border: 5px solid #CD7A7A;
+    height: 30vh;
+
+}
+.contents{
+    margin-top: 8vh;
+}
+.button{
+    margin: 3%;
+}
+
+/* footer */
+
+.content-footer{
+    margin: 10vh;
+}
